@@ -1,0 +1,23 @@
+## Values sent over MQTT
+solpiplog/daly/soc
+solpiplog/daly/volt
+solpiplog/daly/ampere
+solpiplog/daly/remainah
+solpiplog/daly/cell01
+solpiplog/daly/cell02
+solpiplog/daly/cell03
+solpiplog/daly/cell04
+solpiplog/daly/cell05
+solpiplog/daly/cell06
+solpiplog/daly/cell07
+solpiplog/daly/cell08
+solpiplog/daly/cell09
+solpiplog/daly/cell10
+solpiplog/daly/cell11
+solpiplog/daly/cell12
+solpiplog/daly/cell13
+solpiplog/daly/cell14
+solpiplog/daly/cell15
+solpiplog/daly/cell16
+solpiplog/daly/temp1
+solpiplog/daly/cycles
